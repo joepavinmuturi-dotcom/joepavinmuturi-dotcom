@@ -10,3 +10,7 @@ I'm a software development student interested in programming, web development an
 -Build real world projects
 -Improve my progrmming skills
 -Create useful software solution
+
+## What I'm Working On
+I'm currently practicing Git and GitHub workflows,
+including branches, pull requests, reviews, and merges.
