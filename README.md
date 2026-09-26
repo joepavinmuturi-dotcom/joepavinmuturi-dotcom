@@ -1,4 +1,4 @@
 ## index.html
-my profile project
+This is my profile project.
 
 
