@@ -1,23 +1,21 @@
-# Week 1: Profile Project
+# Hi, I'm Joepavin Muturi
 
-## Author
--**Name:** Joepavin Muturi
--**GitHub:**[@joepavinmuturi](https://github.com/joepavinmuturi-dotcom/joepavinmuturi-dotcom)
--**Date:**09-17-2026
+## About Me
+- I'm currently learning Software development at The Nairobi National Polytechnic.
+- I'm interested in Coding and developing webpages.
+- I'm looking to collaborate on MDN Web Docs.
 
-## Project description
-This is my profile project
+## Skills I'm Building
+- Git and GitHub
+- HTML
+- CSS
+- Javascript
 
-## Technologies Used
--HTML5
-
-## How to Run
-1. Copy Github repository URL
-2. Open VS code
-3. Git clone it
-4. choose where to save it then open with live server
-
-
+## Current Projects
+- Profile project (link) — A website explaining about me and my goals
+## How to Reach Me
+- Email: joepavinmuturi@gmail.com
+- LinkedIn: [your LinkedIn profile link]
 
 
 
