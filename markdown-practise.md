@@ -2,7 +2,7 @@
 ### This semester
 This is a **bold**, *italic* and `inline code` in one sentence.
 ## Profile link
-[My profile](https//:github/joepavinmuturi-dotcom)
+[My profile](https://github/joepavinmuturi-dotcom)
 ## what I want to learn
 - Create a webpage
 - Host a web
@@ -16,8 +16,8 @@ This is a **bold**, *italic* and `inline code` in one sentence.
 | Tools       | purpose                                            | link                               |
 |-------------|----------------------------------------------------|------------------------------------|
 | HTML5       | Used to structure a webpage                        | https://www.w3schools.com/Html/    |
-| web browser | Used view and test your webpages                   | git-scm.com                        |
-| vs code     | A code editor for writing and editing your files   | code.visualstudio.com              |
+| web browser | Used view and test your webpages                   | https://git-scm.com                |
+| vs code     | A code editor for writing and editing your files   | https://code.visualstudio.com      |
 
 ## Tasks
 - [x] Learn HTML
