@@ -12,10 +12,10 @@
 - Javascript
 
 ## Current Projects
-- Profile project (link) — A website explaining about me and my goals
+- Profile project — A website explaining about me and my goals
 ## How to Reach Me
 - Email: joepavinmuturi@gmail.com
-- LinkedIn: [your LinkedIn profile link]
+- LinkedIn: www.linkedin.com/in/joepavin-muturi-563997225
 
 
 
