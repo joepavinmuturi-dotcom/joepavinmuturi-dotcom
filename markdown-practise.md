@@ -19,9 +19,9 @@ This is a **bold**, *italic* and `inline code` in one sentence.
 | vs code     | A code editor for writing and editing your files   | code.visualstudio.com              |
 
 ## Tasks
-[x] Learn HTML
-[ ] Learn CSS and Java 
-[ ] Built a webpage
+- [x] Learn HTML
+- [ ] Learn CSS and Java 
+- [ ] Built a webpage
 
 ```python
 print("Hello, world!")
