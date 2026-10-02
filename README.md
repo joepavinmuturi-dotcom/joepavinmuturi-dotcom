@@ -18,5 +18,13 @@
 - LinkedIn: www.linkedin.com/in/joepavin-muturi-563997225
 
 
+`filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+user.name=joepavinmuturi-dotcom
+user.email=joepavinmuturi@gmail.com`
+
+
 
 
