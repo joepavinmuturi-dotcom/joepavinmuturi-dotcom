@@ -1,6 +1,7 @@
 ## My Learning Goals
 ### This semester
 This is a **bold**, *italic* and `inline code` in one sentence.
+## Profile link
 [My profile](https//:github/joepavinmuturi-dotcom)
 ## what I want to learn
 - Create a webpage
