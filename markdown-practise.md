@@ -30,6 +30,23 @@ print("Hello, world!")
 > Code is like humor, when you have to explain it, it's bad.
 
 
+##About Me
+###My hobbies
+- codding
+- dancing
+
+##Languages that i'm conversant with
+1. C
+2. HTML
+3. CSS
+
+##favorite quote
+> Code is like humor, when you have to explain it, it's bad.
+
+##Declaration of a html document
+`<!DOCTYPE html>`
+ 
+
 
 
 
